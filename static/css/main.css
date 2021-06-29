@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+td {
+    border: solid 1px black;
+    padding: 1rem;
+}
+
+tr {
+    border: solid 1px black;
+}
+
+
+form {
+    display: inline-block;
+    padding-top: 3rem;
+}
