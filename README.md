@@ -7,3 +7,10 @@ Built while learning Flask web framework.
 Deployed on Heroku.
 
 https://flask-tasks-crud-app.herokuapp.com/  
+
+&nbsp;
+&nbsp;
+
+Preview:
+
+![Task-flask preview](preview.png)
